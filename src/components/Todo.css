@@ -1,0 +1,16 @@
+.Todo {
+  color: #000;
+  font-style: italic;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: yellow;
+  border-width: medium;
+  margin: 5px auto;
+  width: 90%;
+}
+
+.Todo:hover {
+  cursor: pointer;
+  background: yellow;
+}

@@ -1,0 +1,7 @@
+.TodoForm {
+  width: 300px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  resize:both;
+  overflow: auto;
+}
